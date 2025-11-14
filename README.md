@@ -1,23 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/darrenanthonybeltham.svg?style=for-the-badge&logo=github&logoColor=white&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/darrenanthonybeltham?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=repositories)
-  
+  [![GitHub followers](https://img.shields.io/github/followers/darrenanthonybeltham.svg?style=for-the-badge&logo=github&logoColor=white&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/darrenanthonybeltham?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=repositories)
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -25,15 +23,15 @@
 
 Hi there! I'm **Darren Anthony Beltham**, a passionate **Full Stack Developer** who loves crafting clean, scalable, and high-performance applications.
 
-✨ I enjoy working across the stack — from creating beautiful UI experiences to architecting robust backend systems.  
+✨ I enjoy working across the stack — from creating beautiful UI experiences to architecting robust backend systems.  
 🔥 Always learning, always building, always improving.
 
 ### 👨‍💻 What I Do
-- Develop full-stack applications using **JavaScript**, **TypeScript**, **Go**, **PHP**, and more  
-- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS**  
-- Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI**  
-- Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab**  
-- Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
+- Develop full-stack applications using **JavaScript**, **TypeScript**, **Go**, **PHP**, and more  
+- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS**  
+- Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI**  
+- Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab**  
+- Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
 - Contribute to open-source & explore new tech every day
 
 ### 🎯 Current Focus
@@ -46,7 +44,7 @@ I don’t always test my code, but when I do… it’s in production.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/>
 
 ## 🛠️ Tech Stack
 
@@ -87,67 +85,65 @@ I don’t always test my code, but when I do… it’s in production.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=darrenanthonybeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" alt="Darren Anthony Beltham github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenanthonybeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=darrenanthonybeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenanthonybeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenanthonybeltham&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8" alt="Darren's streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenanthonybeltham&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenanthonybeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenanthonybeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darrenanthonybeltham&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darrenanthonybeltham&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/darrenanthonybeltham/darrenanthonybeltham/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/darrenanthonybeltham/darrenanthonybeltham/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Connect With Me
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darrenanthonybeltham)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenanthonybeltham/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darrenab_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://darrenab.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darrenanthonybeltham@gmail.com)
-
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darrenanthonybeltham)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenanthonybeltham/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darrenab_)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://darrenab.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darrenanthonybeltham@gmail.com)
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repositories;Let's+connect+and+build+something+amazing!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repositories;Let's+connect+and+build+something+amazing!" />
 </div>
