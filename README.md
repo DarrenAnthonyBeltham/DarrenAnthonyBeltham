@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/darrenanthonybeltham?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/darrenanthonybeltham.svg?style=for-the-badge&logo=github&logoColor=white&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/darrenanthonybeltham?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=repositories)
   
 </div>
@@ -46,9 +46,7 @@ I don’t always test my code, but when I do… it’s in production.
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/>
 
 ## 🛠️ Tech Stack
 
