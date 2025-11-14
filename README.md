@@ -15,7 +15,7 @@
 ## 🏆 My GitHub Trophies
 
 <p align="center">
-  <img src="httpss://github-profile-trophy.vercel.app/?username=Darren Anthony Beltham&theme=radical&column=7&row=1" alt="GitHub Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 My Contribution Graph
