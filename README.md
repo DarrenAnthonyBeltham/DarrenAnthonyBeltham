@@ -19,15 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt6NnBxYnR2MnN1dHRscTY5ZWR3YXVkZ3RpMnVvMjB6a2JqZXdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
-</div>
-
 ## 🚀 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
-</div>
 
 <br>
 
