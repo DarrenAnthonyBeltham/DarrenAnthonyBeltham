@@ -24,27 +24,18 @@
 </div>
 
 ## 🚀 About Me
+
+```javascript
 const darren = {
     name: "Darren Anthony Beltham",
     location: "🌍 Earth",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go", "PHP"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            php: ["Laravel"],
-            go: ["Go"],
-            js: ["Node.js", "Express"],
-        },
-        databases: ["MySQL", "PostgreSQL"],
-        devOps: ["Docker", "Git", "GitHub Actions", "GitLab"],
-        misc: ["Firebase", "Socket.io", "GraphQL", "REST API"]
-    },
-    currentFocus: "Building scalable applications and contributing to open source",
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
+    role: "Full Stack Developer",
+    currentFocus: "Building amazing web applications",
+    passions: ["Coding", "Open Source", "Learning New Technologies"],
+    languages: ["JavaScript", "TypeScript", "Java", "Go", "PHP"],
+    hobbies: ["Problem Solving", "Innovation", "Collaboration"]
 };
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -131,7 +122,7 @@ const darren = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darrenanthonybeltham)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrenanthonybeltham/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darrenab_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://https://darrenab.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://darrenab.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darrenanthonybeltham@gmail.com)
 
 </div>
