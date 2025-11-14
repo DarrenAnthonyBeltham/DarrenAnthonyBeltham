@@ -25,19 +25,37 @@
 
 ## 🚀 About Me
 
-```javascript
-const darren = {
-    name: "Darren Anthony Beltham",
-    location: "🌍 Earth",
-    role: "Full Stack Developer",
-    currentFocus: "Building amazing web applications",
-    passions: ["Coding", "Open Source", "Learning New Technologies"],
-    languages: ["JavaScript", "TypeScript", "Java", "Go", "PHP"],
-    hobbies: ["Problem Solving", "Innovation", "Collaboration"]
-};
-```
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+Hi there! I'm **Darren Anthony Beltham**, a passionate **Full Stack Developer** who loves crafting clean, scalable, and high-performance applications.
+
+✨ I enjoy working across the stack — from creating beautiful UI experiences to architecting robust backend systems.  
+🔥 Always learning, always building, always improving.
+
+### 👨‍💻 What I Do
+- Develop full-stack applications using **JavaScript**, **TypeScript**, **Go**, **PHP**, and more  
+- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS**  
+- Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, and more 
+- Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab**  
+- Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
+- Contribute to open-source & explore new tech every day
+
+### 🎯 Current Focus
+- Building **scalable full-stack projects**
+- Exploring **system design**, **cloud architecture**, and **performance optimization**
+
+### 🧠 Fun Fact
+I don’t always test my code, but when I do… it’s in production.
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/>
+</div>
 
 ## 🛠️ Tech Stack
 
