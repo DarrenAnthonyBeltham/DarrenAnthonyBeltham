@@ -1,14 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <a href="https://github.com/darrenanthonybeltham?tab=followers">
+    <img src="https://img.shields.io/github/followers/darrenanthonybeltham.svg?style=for-the-badge&logo=github&logoColor=white&color=C9D1D9" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/darrenanthonybeltham?tab=repositories">
+    <img src="https://img.shields.io/github/stars/darrenanthonybeltham?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=C9D1D9" alt="GitHub stars">
+  </a>
+</div>
 
 <div align="center">
   [![GitHub followers](https://img.shields.io/github/followers/darrenanthonybeltham.svg?style=for-the-badge&logo=github&logoColor=white&color=C9D1D9)](https://github.com/darrenanthonybeltham?tab=followers)
