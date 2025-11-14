@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! Welcome to my profile! 👋
 
-<!--
-**DarrenAnthonyBeltham/DarrenAnthonyBeltham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="httpss://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BF9B&width=435&lines=I'm+a+passionate+developer;I+love+building+cool+projects;...and+learning+new+technologies!" alt="Animated Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="httpss://github-readme-stats.vercel.app/api?username=Darren Anthony Beltham&show_icons=true&theme=radical&rank_icon=github" alt="Your GitHub Stats" />
+  
+  <img src="httpss://github-readme-stats.vercel.app/api/top-langs/?username=Darren Anthony Beltham&layout=compact&theme=radical" alt="Your Top Languages" />
+</p>
+
+## 🏆 My GitHub Trophies
+
+<p align="center">
+  <img src="httpss://github-profile-trophy.vercel.app/?username=Darren Anthony Beltham&theme=radical&column=7&row=1" alt="GitHub Trophies" />
+</p>
+
+## 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="httpss://github.com/Darren Anthony Beltham/Darren Anthony Beltham/blob/output/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph" />
+</p>
