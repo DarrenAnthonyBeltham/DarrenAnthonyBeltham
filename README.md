@@ -32,13 +32,11 @@ Hi there! I'm **Darren Anthony Beltham**, a passionate **Full Stack Developer** 
 
 ### 👨‍💻 What I Do
 - Develop full-stack applications using **JavaScript**, **TypeScript**, **Go**, **PHP**, and more  
-- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS** - Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI** - Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab** - Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
-- Contribute to open-source & explore new tech every day
+- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS** - Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI** - Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab** - Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps
 
 ### 🎯 Current Focus
 - Building **scalable full-stack projects**
 - Exploring **system design**, **cloud architecture**, and **performance optimization**
-- Contributing more to **open source**
 
 ### 🧠 Fun Fact
 I don’t always test my code, but when I do… it’s in production.
@@ -110,8 +108,6 @@ I don’t always test my code, but when I do… it’s in production.
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darrenanthonybeltham&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
