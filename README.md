@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Darren%20Anthony%20Beltham&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darrenanthonybeltham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
@@ -32,10 +32,7 @@ Hi there! I'm **Darren Anthony Beltham**, a passionate **Full Stack Developer** 
 
 ### 👨‍💻 What I Do
 - Develop full-stack applications using **JavaScript**, **TypeScript**, **Go**, **PHP**, and more  
-- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS**  
-- Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI**  
-- Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab**  
-- Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
+- Build modern frontends with **React**, **Next.js**, **Vue**, and **Tailwind CSS** - Create reliable backends with **Node.js**, **Express**, **Laravel**, **Go**, **FastAPI** - Deploy, automate, and scale using **Docker**, **GitHub Actions**, and **GitLab** - Work with **MySQL**, **PostgreSQL**, REST APIs, WebSockets, and Realtime apps  
 - Contribute to open-source & explore new tech every day
 
 ### 🎯 Current Focus
@@ -119,7 +116,7 @@ I don’t always test my code, but when I do… it’s in production.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/darrenanthonybeltham/darrenanthonybeltham/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/darrenanthonybeltham/darrenanthonybeltham/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
