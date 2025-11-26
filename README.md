@@ -89,16 +89,21 @@ I don’t always test my code, but when I do… it’s in production.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=darrenanthonybeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenanthonybeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darrenanthonybeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" height="180px" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenanthonybeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117" height="180px" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenanthonybeltham&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenanthonybeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenanthonybeltham&theme=radical&hide_border=true&stroke=000000&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrenanthonybeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
