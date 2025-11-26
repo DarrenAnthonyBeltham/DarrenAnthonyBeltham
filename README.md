@@ -86,13 +86,13 @@ I don’t always test my code, but when I do… it’s in production.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrenAnthonyBeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrenAnthonyBeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DarrenAnthonyBeltham)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenAnthonyBeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenAnthonyBeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DarrenAnthonyBeltham)
   
 </div>
 
@@ -100,7 +100,7 @@ I don’t always test my code, but when I do… it’s in production.
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarrenAnthonyBeltham&theme=radical&hide_border=true&stroke=000000&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DarrenAnthonyBeltham&theme=radical&hide_border=true&stroke=0D1117&background=0D1117&ring=6ce5e8&fire=6ce5e8&currStreakLabel=6ce5e8)](https://github.com/DarrenAnthonyBeltham)
   
 </div>
 
@@ -108,7 +108,7 @@ I don’t always test my code, but when I do… it’s in production.
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarrenAnthonyBeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarrenAnthonyBeltham&custom_title=Darren's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6ce5e8&line=6ce5e8&point=6ce5e8&area_color=0D1117&title_color=6ce5e8&area=true&hide_border=true)](https://github.com/DarrenAnthonyBeltham)
   
 </div>
 
