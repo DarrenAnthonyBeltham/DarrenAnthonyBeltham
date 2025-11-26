@@ -92,7 +92,7 @@ I don’t always test my code, but when I do… it’s in production.
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrenAnthonyBeltham&show_icons=true&count_private=true&hide_border=true&title_color=6ce5e8&icon_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DarrenAnthonyBeltham)
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenAnthonyBeltham&layout=compact&hide_border=true&title_color=6ce5e8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DarrenAnthonyBeltham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenAnthonyBeltham)](https://github.com/DarrenAnthonyBeltham/github-readme-stats)
   
 </div>
 
