@@ -104,14 +104,6 @@ I don’t always test my code, but when I do… it’s in production.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darrenanthonybeltham&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
