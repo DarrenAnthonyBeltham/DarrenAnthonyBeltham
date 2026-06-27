@@ -19,7 +19,7 @@ I am a Full Stack Developer who loves crafting clean, scalable, and high-perform
 
 - 🔭 I’m currently building **CoreDigital**, a software house offering end-to-end web and mobile application services.
 - 🎓 Awaiting graduation from **Bina Nusantara University** (Computer Science, 3.62 GPA).
-- 💼 Previously a Frontend Web Developer Intern at **HashMicro**.
+- 💼 Previously a Frontend Web Developer Intern at **HashMicro**, currently a Frontend Web Developer at **ScaleOcean**.
 - 🔬 My academic research focuses on **metric-based few-shot learning** and domain generalization for medical computer vision.
 - 💬 Ask me about **React, Next.js, Vue, Go, or Laravel**.
 
